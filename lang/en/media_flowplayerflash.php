@@ -28,3 +28,4 @@ $string['flv'] = 'Flash video';
 $string['mp3'] = 'MP3 audio';
 $string['pluginname'] = 'Flowplayer (Flash only)';
 $string['pluginname_help'] = 'Plays video and audio files using Flowplayer, requires Flash plugin and javascript.';
+$string['privacy:metadata'] = 'The Flowplayer (Flash only) media plugin does not store any personal data.';
